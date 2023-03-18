@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E40E00A229C5FDD2009FC6C8 /* NotlarCevap.swift in Sources */ = {isa = PBXBuildFile; fileRef = E40E00A129C5FDD2009FC6C8 /* NotlarCevap.swift */; };
 		E4E99E0D29A8BADE00B1530B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4E99E0C29A8BADE00B1530B /* AppDelegate.swift */; };
 		E4E99E0F29A8BADE00B1530B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4E99E0E29A8BADE00B1530B /* SceneDelegate.swift */; };
 		E4E99E1129A8BADE00B1530B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4E99E1029A8BADE00B1530B /* ViewController.swift */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E40E00A129C5FDD2009FC6C8 /* NotlarCevap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotlarCevap.swift; sourceTree = "<group>"; };
 		E4E99E0929A8BADE00B1530B /* NotUygulamasi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NotUygulamasi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4E99E0C29A8BADE00B1530B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E4E99E0E29A8BADE00B1530B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -75,6 +77,7 @@
 				E4E99E2229A8BDAB00B1530B /* NotEkleViewController.swift */,
 				E4E99E2429A8BDC200B1530B /* NotDetayViewController.swift */,
 				E4E99E2629A8C17F00B1530B /* Notlar.swift */,
+				E40E00A129C5FDD2009FC6C8 /* NotlarCevap.swift */,
 			);
 			path = NotUygulamasi;
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 				E4E99E1129A8BADE00B1530B /* ViewController.swift in Sources */,
 				E4E99E2729A8C17F00B1530B /* Notlar.swift in Sources */,
 				E4E99E2329A8BDAB00B1530B /* NotEkleViewController.swift in Sources */,
+				E40E00A229C5FDD2009FC6C8 /* NotlarCevap.swift in Sources */,
 				E4E99E2129A8BC0000B1530B /* NotHucreTableViewCell.swift in Sources */,
 				E4E99E0D29A8BADE00B1530B /* AppDelegate.swift in Sources */,
 				E4E99E2529A8BDC200B1530B /* NotDetayViewController.swift in Sources */,

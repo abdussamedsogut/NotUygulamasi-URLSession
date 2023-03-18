@@ -43,19 +43,18 @@
                                                     <nil key="highlightedColor"/>
                                                 </label>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="50" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="P3D-Qc-Ukl">
-                                                    <rect key="frame" x="202" y="11.333333333333336" width="21" height="21"/>
+                                                    <rect key="frame" x="186" y="11.333333333333336" width="21" height="21"/>
                                                     <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
                                             </subviews>
                                             <constraints>
-                                                <constraint firstItem="Ru3-gu-dvZ" firstAttribute="leading" secondItem="P3D-Qc-Ukl" secondAttribute="trailing" constant="91" id="4ET-qM-koE"/>
                                                 <constraint firstItem="PIn-yE-M0g" firstAttribute="leading" secondItem="eMn-0M-ocp" secondAttribute="leadingMargin" id="EzW-5w-1KR"/>
                                                 <constraint firstAttribute="trailingMargin" secondItem="Ru3-gu-dvZ" secondAttribute="trailing" constant="30" id="J9N-Oa-ABj"/>
                                                 <constraint firstItem="Ru3-gu-dvZ" firstAttribute="centerY" secondItem="eMn-0M-ocp" secondAttribute="centerY" id="Nqs-1X-OnL"/>
-                                                <constraint firstItem="P3D-Qc-Ukl" firstAttribute="leading" secondItem="PIn-yE-M0g" secondAttribute="trailing" constant="61" id="R6f-X2-gKi"/>
                                                 <constraint firstItem="P3D-Qc-Ukl" firstAttribute="centerY" secondItem="eMn-0M-ocp" secondAttribute="centerY" id="ewZ-nz-BS6"/>
+                                                <constraint firstItem="P3D-Qc-Ukl" firstAttribute="centerX" secondItem="eMn-0M-ocp" secondAttribute="centerX" id="tB9-De-L0B"/>
                                                 <constraint firstItem="PIn-yE-M0g" firstAttribute="centerY" secondItem="eMn-0M-ocp" secondAttribute="centerY" id="yCf-Cs-w8e"/>
                                             </constraints>
                                         </tableViewCellContentView>
